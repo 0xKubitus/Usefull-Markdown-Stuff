@@ -1,20 +1,25 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-![Ubuntu package](https://img.shields.io/static/v1?logo=ubuntu&label=Ubuntu&message=22.04&color=orange&style=for-the-badge)
+[![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project.svg
+)](https://www.thehackingproject.org/)
+[![THP Badge](https://raw.githubusercontent.com/0xKubitus/Usefull-Stuff-for-README/main/assets/mkdwn-badges/the-hacking-project(1).svg)](https://www.thehackingproject.org/)
+[![THP Badge](https://raw.githubusercontent.com/0xKubitus/Usefull-Stuff-for-README/main/assets/mkdwn-badges/the-hacking-project(2).svg)](https://www.thehackingproject.org/)
+[![THP Badge](https://raw.githubusercontent.com/0xKubitus/Usefull-Stuff-for-README/main/assets/mkdwn-badges/the-hacking-project(3).svg)](https://www.thehackingproject.org/)
+[![THP Badge](https://raw.githubusercontent.com/0xKubitus/Usefull-Stuff-for-README/main/assets/mkdwn-badges/the-hacking-project(4).svg)](https://www.thehackingproject.org/)
+[![THP Badge](https://raw.githubusercontent.com/0xKubitus/Usefull-Stuff-for-README/main/assets/mkdwn-badges/the-hacking-project(5).svg)](https://www.thehackingproject.org/)
+
 
 [![THP Badge](https://raw.githubusercontent.com/Beygs/Beygs/main/assets/the-hacking-project-badge.svg)](https://www.thehackingproject.org/)
 
-![Asus Laptop](https://img.shields.io/badge/asus-laptop-000000?style=for-the-badge&logo=asus&logoColor=white)
-![AMD Ryzen 9 5900HS](https://img.shields.io/badge/AMD-Ryzen_9_5900HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![Nvidia GeForce RTX 3060](https://img.shields.io/badge/NVIDIA-GeForce_RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/static/v1?logo=ubuntu&label=Ubuntu&message=22.04&color=orange&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Oh My ZSH](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### 👨‍💻 Languages & Frameworks
 
@@ -41,6 +46,7 @@
 
 ![](https://github.com/Beygs/gh-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Beygs/gh-stats/blob/master/generated/languages.svg)
+cf. https://github.com/jstrieb/github-stats
 
 
 
