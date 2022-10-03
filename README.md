@@ -1,9 +1,7 @@
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
 [![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project.svg
 )](https://www.thehackingproject.org/)
 
-[![THP Badge](https://raw.githubusercontent.com/0xKubitus/Usefull-Stuff-for-README/main/assets/mkdwn-badges/the-hacking-project(1).svg)](https://www.thehackingproject.org/)
+[![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project%20(1).svg)](https://www.thehackingproject.org/)
 
 [![THP Badge](https://raw.githubusercontent.com/0xKubitus/Usefull-Stuff-for-README/main/assets/mkdwn-badges/the-hacking-project(2).svg)](https://www.thehackingproject.org/)
 
