@@ -39,8 +39,8 @@
 
 ## 📈 GitHub Stats
 
-![](https://github.com/Beygs/gh-stats/blob/master/generated/overview.svg)
-![](https://github.com/Beygs/gh-stats/blob/master/generated/languages.svg)
+![](https://github.com/0xKubitus/gh-stats/blob/master/generated/overview.svg)
+![](https://github.com/0xKubitus/gh-stats/blob/master/generated/languages.svg)
 
 
 
