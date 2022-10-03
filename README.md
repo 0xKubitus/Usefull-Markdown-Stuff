@@ -1,10 +1,9 @@
-[![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project.svg
+[![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project1.svg
 )](https://www.thehackingproject.org/)
-[![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project%20(1).svg)](https://www.thehackingproject.org/)
-[![THP Badge](https://raw.githubusercontent.com/0xKubitus/Usefull-Stuff-for-README/main/assets/mkdwn-badges/the-hacking-project(2).svg)](https://www.thehackingproject.org/)
-[![THP Badge](https://raw.githubusercontent.com/0xKubitus/Usefull-Stuff-for-README/main/assets/mkdwn-badges/the-hacking-project(3).svg)](https://www.thehackingproject.org/)
-[![THP Badge](https://raw.githubusercontent.com/0xKubitus/Usefull-Stuff-for-README/main/assets/mkdwn-badges/the-hacking-project%20(4).svg)](https://www.thehackingproject.org/)
-[![THP Badge](https://raw.githubusercontent.com/0xKubitus/Usefull-Stuff-for-README/main/assets/mkdwn-badges/the-hacking-project%20(5).svg)](https://www.thehackingproject.org/)
+[![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project2.svg)](https://www.thehackingproject.org/)
+[![THP Badge](https://raw.githubusercontent.com/0xKubitus/Usefull-Stuff-for-README/main/assets/mkdwn-badges/the-hacking-project_black&white1.svg)](https://www.thehackingproject.org/)
+[![THP Badge](https://raw.githubusercontent.com/0xKubitus/Usefull-Stuff-for-README/main/assets/mkdwn-badges/the-hacking-project_black&white2.svg)](https://www.thehackingproject.org/)
+
 [![THP Badge](https://raw.githubusercontent.com/Beygs/Beygs/main/assets/the-hacking-project-badge.svg)](https://www.thehackingproject.org/)
 
 
