@@ -1,8 +1,6 @@
 [![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project.svg
 )](https://www.thehackingproject.org/)
 
-
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/static/v1?logo=ubuntu&label=Ubuntu&message=22.04&color=orange&style=for-the-badge)
@@ -24,12 +22,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![JSON](https://img.shields.io/static/v1?label=.JSON&message=files&color=grey&style=for-the-badge&logo=json&logoColor=darkgrey&labelColor=ghostwhite)
 [![JSON Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/JSON-badge2.svg
 )](https://www.json.org/)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com)
+![Rails 5.2.3](https://img.shields.io/static/v1?logo=rubyonrails&label=Rails&message=5.2.3&color=0B0D0E&style=for-the-badge&labelColor=cc0000)
+
+
 ![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![PostGreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -47,7 +47,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 ### ⚗ Other
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)<div class="open_grepper_editor" title="Edit & Save To Grepper"></div>
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
 
 ## 📈 GitHub Stats
 
@@ -69,4 +69,5 @@ cf. https://github.com/jstrieb/github-stats
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
