@@ -1,6 +1,8 @@
 [![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project.svg
 )](https://www.thehackingproject.org/)
 
+
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/static/v1?logo=ubuntu&label=Ubuntu&message=22.04&color=orange&style=for-the-badge)
@@ -15,6 +17,8 @@
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+ 
 
 ### 👨‍💻 Languages & Frameworks
 
@@ -71,3 +75,23 @@ cf. https://github.com/jstrieb/github-stats
 - ⚡ Fun fact: ...
 
 
+
+
+
+
+
+<div align="center">
+
+## SOMMAIRE :
+[Création de l’API 🛤](#création-de-lapi-) | 
+[Devise JWT 💲](#devise-jwt-) | 
+[Known Issues 🔧](#known-issues-)
+
+<br><br>
+
+
+## Création de l’API 🛤
+
+## Devise JWT 💲
+
+## Known Issues 🔧
